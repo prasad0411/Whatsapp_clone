@@ -4,7 +4,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 class SignUp extends StatefulWidget {
   SignUp({Key key}) : super(key: key);
 
-  @override
+  @override 
   _SignUpState createState() => _SignUpState();
 }
 
